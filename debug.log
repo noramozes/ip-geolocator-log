@@ -1,0 +1,6 @@
+2020-04-05 18:51:17 [main] geolocator.GeoLocator.getGeoLocation()
+DEBUG: URL: http://ip-api.com/json/
+2020-04-05 18:51:17 [main] geolocator.GeoLocator.getGeoLocation()
+DEBUG: Returning JSON file as GSON: {"status":"success","country":"Hungary","countryCode":"HU","region":"SZ","regionName":"Szabolcs-Szatmár-Bereg","city":"Nyiregyhaza","zip":"4400","lat":47.9554,"lon":21.7167,"timezone":"Europe/Budapest","isp":"DIGI Tavkozlesi es Szolgaltato Kft.","org":"Digi","as":"AS20845 DIGI Tavkozlesi es Szolgaltato Kft.","query":"92.249.242.186"}
+2020-04-05 18:51:17 [main] geolocator.GeoLocator.main()
+INFO: Geolocation information: GeoLocation(as=AS20845 DIGI Tavkozlesi es Szolgaltato Kft., city=Nyiregyhaza, country=Hungary, countryCode=HU, isp=DIGI Tavkozlesi es Szolgaltato Kft., lat=47.9554, lon=21.7167, org=Digi, query=92.249.242.186, region=SZ, regionName=Szabolcs-Szatmár-Bereg, timezone=Europe/Budapest, zip=4400)
